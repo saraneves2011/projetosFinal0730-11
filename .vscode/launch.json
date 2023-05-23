@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "JFrmCozinha",
+            "request": "launch",
+            "mainClass": "br.com.ComandaFacil.view.JFrmCozinha",
+            "projectName": "projetosFinal07 30-11_dbbf2735"
+        },
+        {
+            "type": "java",
+            "name": "JFrmHistorico",
+            "request": "launch",
+            "mainClass": "br.com.ComandaFacil.view.JFrmHistorico",
+            "projectName": "projetosFinal07 30-11_dbbf2735"
+        },
+        {
+            "type": "java",
+            "name": "JFrmMenu",
+            "request": "launch",
+            "mainClass": "br.com.ComandaFacil.view.JFrmMenu",
+            "projectName": "projetosFinal07 30-11_dbbf2735"
+        },
+        {
+            "type": "java",
+            "name": "JFrmRegistro",
+            "request": "launch",
+            "mainClass": "br.com.ComandaFacil.view.JFrmRegistro",
+            "projectName": "projetosFinal07 30-11_dbbf2735"
+        },
+        {
+            "type": "java",
+            "name": "JFrmRodizio",
+            "request": "launch",
+            "mainClass": "br.com.ComandaFacil.view.JFrmRodizio",
+            "projectName": "projetosFinal07 30-11_dbbf2735"
+        },
+        {
+            "type": "java",
+            "name": "JFrmTelaInicial",
+            "request": "launch",
+            "mainClass": "br.com.ComandaFacil.view.JFrmTelaInicial",
+            "projectName": "projetosFinal07 30-11_dbbf2735"
+        }
+    ]
+}
